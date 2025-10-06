@@ -2,7 +2,7 @@
 
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação e curso de Git e Github da Alura. Um jogo simples de adivinhação de um número secreto.</p>
-<a>https://alicevital.github.io/sorteador_numero/</a>
+[Clique aqui para testá- lo!]()
 
 ## Tecnologias
 <div>
