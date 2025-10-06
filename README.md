@@ -4,7 +4,7 @@ Projeto desenvolvido no curso de 'Git e Github: Compartilhando e colaborando em 
 <h1>Jogo do número secreto</h1>
 
 <h2>Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Projeto utilizado nos cursos de lógica de programação, curso de Git e Github da Alura.</p>
 
 ## Tecnologias
 <div>
